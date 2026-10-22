@@ -97,9 +97,4 @@ The Shipments table is the fact table and connects to the other tables through p
 **Vedavalli Guntuku**  
 Data Analyst  
 
-🔗 [GitHub]## Author
-
-**Vedavalli Guntuku**  
-Data Analyst  
-
 🔗 [GitHub](https://github.com/vedavalliguntuku) 
