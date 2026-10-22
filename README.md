@@ -1,6 +1,6 @@
 # Chocolate Shipments Dashboard
 
-An interactive **Power BI** dashboard that analyses 25,000+ chocolate shipments (Jan 2023 – Mar 2025) across 22 products, 25 sales people and 6 countries. It shows sales, profit, boxes shipped and year-over-year trends in one place.
+An interactive **Power BI** dashboard that analysis 25,000+ chocolate shipments (Jan 2023 – Mar 2025) across 22 products, 25 sales people and 6 countries. It shows sales, profit, boxes shipped and year-over-year trends in one place.
 
 ---
 
@@ -30,8 +30,6 @@ An interactive **Power BI** dashboard that analyses 25,000+ chocolate shipments 
 | **Calendar** | Date table used for time-based measures |
 
 The Shipments table is the fact table and connects to the other tables through product, location and sales-person IDs (star schema).
-
-> Dataset: sample chocolate shipments data (credit the original source here, e.g. Chandoo.org, if that is where you downloaded it).
 
 ---
 
@@ -66,8 +64,6 @@ The Shipments table is the fact table and connects to the other tables through p
 - Profit % varies a lot by product, from about 90% (Peanut Butter Cubes) to about 36% (99% Dark & Pure).
 - The top 6 sales people have similar profit margins (about 57–60%), so differences come mainly from sales volume.
 
-*(Add your own findings here with numbers, for example "sales dropped X% in Q4 2024 compared with 2023".)*
-
 ---
 
 ## Tools Used
@@ -96,14 +92,9 @@ The Shipments table is the fact table and connects to the other tables through p
 └── README.md
 ```
 
-*(Update the file names to match your repository exactly. GitHub file names are case-sensitive.)*
-
----
-
 ## Author
 
 **Vedavalli Guntuku**  
 Data Analyst  
 
-🔗 [GitHub](https://github.com/vedavalliguntuku)  
-💼 [LinkedIn](https://www.linkedin.com/in/vedavalliguntuku/)
+🔗 [GitHub](https://github.com/vedavalliguntuku/chocolate-shipments-Power-BI-dashboard))  
